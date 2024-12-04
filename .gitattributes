@@ -1,0 +1,2 @@
+src/Cloudflare_WARP_2024.11.309.0.msi filter=lfs diff=lfs merge=lfs -text
+*.chat filter=lfs diff=lfs merge=lfs -text
